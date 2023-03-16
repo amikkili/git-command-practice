@@ -9,8 +9,8 @@
 	<url>http://maven.apache.org</url>
 	
 	<properties>
-		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://44.203.206.97:9000/</sonar.host.url>
+		<docker.image.prefix>ast</docker.image.prefix>
+		<sonar.host.url>http://3.95.215.94:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<maven.compiler.source>1.6</maven.compiler.source>
