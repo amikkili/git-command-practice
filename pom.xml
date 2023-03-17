@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <url>http://54.166.208.135:8081/repository/ast-snapshot/</url>
+		    <url>http://54.197.52.238:8081/repository/ast-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://54.166.208.135:8081/repository/ast-release/</url>
+		    <url>http://54.197.52.238:8081/repository/ast-release/</url>
 		</repository>
   	</distributionManagement>
 	
